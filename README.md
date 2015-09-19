@@ -2,7 +2,7 @@ Key Words:Shared memory, Interprocess communication, boost, C++.
 
 boostライブラリを利用したプロセス間通信をします．
 
-<動作確認した環境>
+<動作確認した環境>\n
 Windows 7 Professional SP1，CPU 3.40GHz，RAM 8.00GB，64bit，Visual C++ 2010．
 
 <使用するための初期設定>
